@@ -1,0 +1,23 @@
+require 'dl'
+
+BUTTONS_OK = 0
+BUTTONS_OKCANCEL = 1
+BUTTONS_ABORTRETRYIGNORE = 2
+BUTTONS_YESNO = 4
+
+CLICKED_OK = 1
+CLICKED_CANCEL = 2
+CLICKED_ABORT = 3
+CLICKED_RETRY = 4
+CLICKED_IGNORE = 5
+CLICKED_YES = 6
+CLICKED_NO = 7
+
+def message_box(txt='', title='', buttons=0)
+    user32 = DL.dlopen('user32')
+    msgbox = user32['MessageBoxA', 'ILSSI']
+    r, rs = msgbox.call(0, txt, title, buttons)
+    return r
+end
+
+message_box("Hello, World!", "Hi!", 4)

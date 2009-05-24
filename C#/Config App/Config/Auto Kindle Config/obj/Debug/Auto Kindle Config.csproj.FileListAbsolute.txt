@@ -1,0 +1,12 @@
+C:\Auto Kindle\C#\Config App\Config\Auto Kindle Config\bin\Debug\Auto Kindle Config.exe
+C:\Auto Kindle\C#\Config App\Config\Auto Kindle Config\bin\Debug\Auto Kindle Config.pdb
+C:\Auto Kindle\C#\Config App\Config\Auto Kindle Config\obj\Debug\ResolveAssemblyReference.cache
+C:\Auto Kindle\C#\Config App\Config\Auto Kindle Config\obj\Debug\Window1.baml
+C:\Auto Kindle\C#\Config App\Config\Auto Kindle Config\obj\Debug\Window1.g.cs
+C:\Auto Kindle\C#\Config App\Config\Auto Kindle Config\obj\Debug\App.g.cs
+C:\Auto Kindle\C#\Config App\Config\Auto Kindle Config\obj\Debug\Auto Kindle Config_MarkupCompile.cache
+C:\Auto Kindle\C#\Config App\Config\Auto Kindle Config\obj\Debug\Auto Kindle Config.g.resources
+C:\Auto Kindle\C#\Config App\Config\Auto Kindle Config\obj\Debug\Auto_Kindle_Config.Properties.Resources.resources
+C:\Auto Kindle\C#\Config App\Config\Auto Kindle Config\obj\Debug\Auto Kindle Config.csproj.GenerateResource.Cache
+C:\Auto Kindle\C#\Config App\Config\Auto Kindle Config\obj\Debug\Auto Kindle Config.exe
+C:\Auto Kindle\C#\Config App\Config\Auto Kindle Config\obj\Debug\Auto Kindle Config.pdb

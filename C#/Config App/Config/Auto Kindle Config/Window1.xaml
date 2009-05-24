@@ -1,0 +1,23 @@
+﻿<Window x:Class="Auto_Kindle_Config.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Auto Kindle eBook Config" Height="177" Width="500" SizeToContent="Height" ForceCursor="False" WindowStyle="ThreeDBorderWindow" BorderBrush="DarkGray">
+    <Grid Height="140">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*" />
+            <ColumnDefinition Width="478*" />
+        </Grid.ColumnDefinitions>
+        <GroupBox Header="Default File Settings" Name="DefaultLocGroup" Height="92" VerticalAlignment="Top" Grid.Column="1" />
+        <CheckBox Height="16" Margin="2,38,0,0" Name="UserDefineOutputLocChk" VerticalAlignment="Top" IsChecked="False" Checked="UserDefineOutputLocChk_Checked" Unchecked="UserDefineOutputLocChk_Unchecked" Grid.Column="1" HorizontalAlignment="Left" Width="120"></CheckBox>
+        <TextBox Height="23" Margin="0,34,92,0" Name="OutputLocTxtBox" VerticalAlignment="Top" TextChanged="OutputLocTxtBox_TextChanged" Grid.Column="1" HorizontalAlignment="Right" Width="369" />
+        <Label Height="26" Margin="0,11,0,0" Name="label2" VerticalAlignment="Top" Grid.Column="1" HorizontalAlignment="Left" Width="130">Default Output Location</Label>
+        <Button Height="24.862" HorizontalAlignment="Right" Margin="0,32,2,0" Name="OutputSelect" VerticalAlignment="Top" Width="75" Tag="OutputSelect" Click="OutputSelect_Click" Grid.Column="1">Select</Button>
+        <CheckBox Margin="2,57,0,67" Name="OutputDefaultChk" Checked="OutputDefaultChk_Checked" Unchecked="OutputDefaultChk_Checked" Grid.Column="1" HorizontalAlignment="Left" Width="142">Default to Input Location</CheckBox>
+        <GroupBox Header="PDF Settings" Height="37" Margin="0,95,0,0" Name="PdfSettings" VerticalAlignment="Top" HorizontalAlignment="Left" Width="200" BorderThickness="1" Grid.Column="1">
+            <CheckBox Height="16" Name="PDFImageProcessing" Width="188" ToolTip="Check to enable PDF Image Support">Process PDF Images</CheckBox>
+        </GroupBox>
+        <CheckBox Height="16" HorizontalAlignment="Left" Margin="2,0,0,49" Name="DefaultLocDisableChk" VerticalAlignment="Bottom" Width="218" Checked="DefaultLocDisableChk_Checked" Unchecked="DefaultLocDisableChk_Unchecked" IsChecked="True" Grid.Column="1">Select an Output Location on each Time</CheckBox>
+        <Button Grid.Column="1" Height="23" HorizontalAlignment="Left" Margin="311,102.138,0,0" Name="ResetBtn" VerticalAlignment="Top" Width="75" Click="ResetBtn_Click">Default</Button>
+        <Button Grid.Column="1" Height="23" HorizontalAlignment="Right" Margin="0,102.138,2,0" Name="SaveBtn" VerticalAlignment="Top" Width="75" Click="SaveBtn_Click">Save</Button>
+    </Grid>
+</Window>
