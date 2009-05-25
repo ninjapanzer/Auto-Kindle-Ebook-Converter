@@ -1,0 +1,9 @@
+﻿<Window x:Class="AutoKindle_Updater.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Window1" Height="300" Width="300">
+    <Grid>
+        <TextBox Name="StatusTxt" Margin="0,0,0,50" TextChanged="textBox1_TextChanged" />
+        <Button Height="23" Margin="12,0,0,12" Name="UpdateBTN" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="75" Click="button1_Click">Update</Button>
+    </Grid>
+</Window>

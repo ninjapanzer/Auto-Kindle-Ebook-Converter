@@ -1,0 +1,12 @@
+C:\Auto Kindle\C#\AutoKindle Updater\AutoKindle Updater\bin\Release\AutoKindle Updater.exe
+C:\Auto Kindle\C#\AutoKindle Updater\AutoKindle Updater\bin\Release\AutoKindle Updater.pdb
+C:\Auto Kindle\C#\AutoKindle Updater\AutoKindle Updater\obj\Release\ResolveAssemblyReference.cache
+C:\Auto Kindle\C#\AutoKindle Updater\AutoKindle Updater\obj\Release\Window1.baml
+C:\Auto Kindle\C#\AutoKindle Updater\AutoKindle Updater\obj\Release\Window1.g.cs
+C:\Auto Kindle\C#\AutoKindle Updater\AutoKindle Updater\obj\Release\App.g.cs
+C:\Auto Kindle\C#\AutoKindle Updater\AutoKindle Updater\obj\Release\AutoKindle Updater_MarkupCompile.cache
+C:\Auto Kindle\C#\AutoKindle Updater\AutoKindle Updater\obj\Release\AutoKindle Updater.g.resources
+C:\Auto Kindle\C#\AutoKindle Updater\AutoKindle Updater\obj\Release\AutoKindle_Updater.Properties.Resources.resources
+C:\Auto Kindle\C#\AutoKindle Updater\AutoKindle Updater\obj\Release\AutoKindle Updater.csproj.GenerateResource.Cache
+C:\Auto Kindle\C#\AutoKindle Updater\AutoKindle Updater\obj\Release\AutoKindle Updater.exe
+C:\Auto Kindle\C#\AutoKindle Updater\AutoKindle Updater\obj\Release\AutoKindle Updater.pdb
