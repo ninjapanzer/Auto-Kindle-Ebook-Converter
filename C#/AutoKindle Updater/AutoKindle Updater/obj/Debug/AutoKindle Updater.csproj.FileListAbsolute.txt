@@ -10,3 +10,4 @@ C:\Auto Kindle\C#\AutoKindle Updater\AutoKindle Updater\bin\Debug\AutoKindle Upd
 C:\Auto Kindle\C#\AutoKindle Updater\AutoKindle Updater\bin\Debug\AutoKindle Updater.pdb
 C:\Auto Kindle\C#\AutoKindle Updater\AutoKindle Updater\obj\Debug\AutoKindle Updater.exe
 C:\Auto Kindle\C#\AutoKindle Updater\AutoKindle Updater\obj\Debug\AutoKindle Updater.pdb
+C:\Auto Kindle\C#\AutoKindle Updater\AutoKindle Updater\bin\Debug\AutoKindle Updater.exe.config

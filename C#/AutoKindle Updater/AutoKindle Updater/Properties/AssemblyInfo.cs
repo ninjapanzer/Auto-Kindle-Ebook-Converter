@@ -10,9 +10,9 @@ using System.Windows;
 [assembly: AssemblyTitle("AutoKindle Updater")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
+[assembly: AssemblyCompany("Dead Messengers")]
 [assembly: AssemblyProduct("AutoKindle Updater")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2009")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
