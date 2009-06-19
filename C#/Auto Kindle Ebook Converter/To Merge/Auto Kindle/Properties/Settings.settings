@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Auto_Kindle.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="mobi2mobiAppPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\gmanrodt\Desktop\mobi\C#\app\mobi2mobi.exe</Value>
+    </Setting>
+    <Setting Name="clitAppPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\gmanrodt\Desktop\mobi\C#\app\clit.exe</Value>
+    </Setting>
+    <Setting Name="pdbAppPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\gmanrodt\Desktop\mobi\C#\appabcpalm.exe</Value>
+    </Setting>
+    <Setting Name="chmAppPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\gmanrodt\Desktop\mobi\C#\app\chmdecoder.exe</Value>
+    </Setting>
+    <Setting Name="pdfAppPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\gmanrodt\Desktop\mobi\C#\app\pdftohtml.exe</Value>
+    </Setting>
+    <Setting Name="mobi2mobiAppArgs" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="clitAppArgs" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-d</Value>
+    </Setting>
+    <Setting Name="pdbAppArgs" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="chmAppArgs" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-menu</Value>
+    </Setting>
+    <Setting Name="pdfAppArgs" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-noframes -c</Value>
+    </Setting>
+    <Setting Name="TempPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\kindle\temp</Value>
+    </Setting>
+    <Setting Name="EBookPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\kindle\Fiction</Value>
+    </Setting>
+    <Setting Name="MobigenPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\gmanrodt\Desktop\mobi\C#\app\mobigen.exe</Value>
+    </Setting>
+    <Setting Name="DefaultOutPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\kindle\converted</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
