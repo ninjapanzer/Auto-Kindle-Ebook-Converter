@@ -10,14 +10,8 @@ E:\Auto Kindle\C#\Auto Kindle.exe
 E:\Auto Kindle\C#\Auto Kindle.pdb
 D:\Auto Kindle\C#\Auto Kindle Ebook Converter\Auto Kindle\obj\Debug\Auto Kindle.exe
 D:\Auto Kindle\C#\Auto Kindle Ebook Converter\Auto Kindle\obj\Debug\Auto Kindle.pdb
-C:\Auto Kindle\C#\Auto Kindle Ebook Converter\Auto Kindle\obj\Debug\ResolveAssemblyReference.cache
-C:\Auto Kindle\C#\Auto Kindle Ebook Converter\Auto Kindle\obj\Debug\Auto Kindle.TrustInfo.xml
-C:\Auto Kindle\C#\Auto Kindle Ebook Converter\Auto Kindle\obj\Debug\Auto Kindle.exe.manifest
-C:\Auto Kindle\C#\Auto Kindle Ebook Converter\Auto Kindle\obj\Debug\Auto Kindle.application
 C:\Auto Kindle\C#\Auto Kindle.exe.manifest
 C:\Auto Kindle\C#\Auto Kindle.application
-C:\Auto Kindle\C#\Auto Kindle Ebook Converter\Auto Kindle\obj\Debug\Auto Kindle.exe
-C:\Auto Kindle\C#\Auto Kindle Ebook Converter\Auto Kindle\obj\Debug\Auto Kindle.pdb
 C:\Auto Kindle\C#\Auto Kindle.exe
 C:\Auto Kindle\C#\Auto Kindle.pdb
 D:\Auto Kindle\C#\Auto Kindle Ebook Converter\Auto Kindle\obj\Debug\ResolveAssemblyReference.cache
@@ -44,3 +38,9 @@ C:\Users\gmanrodt\Desktop\mobi\C#\Auto Kindle Ebook Converter\Auto Kindle\obj\De
 C:\Users\gmanrodt\Desktop\mobi\C#\Auto Kindle Ebook Converter\Auto Kindle\obj\Debug\Auto Kindle.pdb
 C:\Users\gmanrodt\Desktop\mobi\C#\Auto Kindle.exe
 C:\Users\gmanrodt\Desktop\mobi\C#\Auto Kindle.pdb
+C:\Auto Kindle\C#\Auto Kindle Ebook Converter\To Merge\Auto Kindle\obj\Debug\ResolveAssemblyReference.cache
+C:\Auto Kindle\C#\Auto Kindle Ebook Converter\Auto Kindle.exe.config
+C:\Auto Kindle\C#\Auto Kindle Ebook Converter\To Merge\Auto Kindle\obj\Debug\Auto Kindle.exe
+C:\Auto Kindle\C#\Auto Kindle Ebook Converter\To Merge\Auto Kindle\obj\Debug\Auto Kindle.pdb
+C:\Auto Kindle\C#\Auto Kindle Ebook Converter\Auto Kindle.exe
+C:\Auto Kindle\C#\Auto Kindle Ebook Converter\Auto Kindle.pdb
